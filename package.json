@@ -1,0 +1,18 @@
+{
+  "name": "we-have-your-ip",
+  "version": "1.0.0",
+  "description": "a dumb way to check your ip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Szprink",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "express": "^4.17.1",
+    "express-ip": "^1.0.4",
+    "express-useragent": "^1.0.15",
+    "jimp": "^0.16.1"
+  }
+}
